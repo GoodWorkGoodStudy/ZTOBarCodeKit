@@ -1,0 +1,6 @@
+framework module Pods_ZTOBarCodeKit_Example {
+  umbrella header "Pods-ZTOBarCodeKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

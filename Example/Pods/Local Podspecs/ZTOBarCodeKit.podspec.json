@@ -1,0 +1,22 @@
+{
+  "name": "ZTOBarCodeKit",
+  "version": "0.1.0",
+  "summary": "生成条形码和二维码",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yuhongdong": "yuhongdong@zto.com"
+  },
+  "source": {
+    "git": "https://github.com/13121380325@163.com/ZTOBarCodeKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZTOBarCodeKit/Classes/**/*"
+}

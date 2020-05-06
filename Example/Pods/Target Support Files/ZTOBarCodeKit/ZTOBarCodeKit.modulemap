@@ -1,0 +1,6 @@
+framework module ZTOBarCodeKit {
+  umbrella header "ZTOBarCodeKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

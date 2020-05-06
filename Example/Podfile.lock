@@ -1,0 +1,16 @@
+PODS:
+  - ZTOBarCodeKit (0.1.0)
+
+DEPENDENCIES:
+  - ZTOBarCodeKit (from `../`)
+
+EXTERNAL SOURCES:
+  ZTOBarCodeKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZTOBarCodeKit: 7acb3c6de5fc540d1bc715c0fc10711fbed6c453
+
+PODFILE CHECKSUM: 2dfeafa69dc730129615a6e96705c764ace42d25
+
+COCOAPODS: 1.8.4
